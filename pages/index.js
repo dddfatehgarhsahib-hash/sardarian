@@ -41,3 +41,10 @@ Register Now
 )
 
 }
+<a href="/admin-login">
+<button style={{marginTop:"20px"}}>
+
+Admin Login
+
+</button>
+</a>
